@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **Adil Furniture**.
 
-🌐 **Live Website:** https://adilfurniture.vercel.app
+🌐 Live Website: https://adilfurniture.vercel.app
 
 ## About
 
